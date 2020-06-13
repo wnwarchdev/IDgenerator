@@ -1,0 +1,8 @@
+{
+  "name": "@user/IDgenerator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wnwarchdev/IDgenerator.git",
+  "author": "Wojtek Nowak <billnewmann@gmail.com>",
+  "license": "MIT"
+}
